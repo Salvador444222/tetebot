@@ -35,8 +35,8 @@ except Exception as e:
 MAIN_ADMIN_ID = 1509389908
 ADMIN_IDS = {1509389908, 5425456667}
 
-REFERENCE_MONDAY = date(2025, 12, 1)
-REFERENCE_WEEK_TYPE = "знаменник"
+REFERENCE_MONDAY = date(2026, 1, 12)
+REFERENCE_WEEK_TYPE = "чисельник"
 
 SCHEDULE_FILE = "schedule.json"
 USERS_FILE = "users.json"
