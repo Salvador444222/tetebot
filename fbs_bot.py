@@ -24,7 +24,7 @@ threading.Thread(target=run_flask, daemon=True).start()
 # =======================================
 
 # ================== НАСТРОЙКИ ==================
-TOKEN = "8557940025:AAHoDOxNIQA7gj5plfHdtWGeNp2t6thD1gk"
+TOKEN = "8468140859:AAGW3zWlsCax-Bj1SqhxeQX33Tl7Hyk8UPU"
 bot = telebot.TeleBot(TOKEN)
 
 try:
